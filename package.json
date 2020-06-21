@@ -2,7 +2,7 @@
   "name": "github-prod",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://",
+  "homepage": "https://github.com/SamuelStentz/react-resume-sam",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
