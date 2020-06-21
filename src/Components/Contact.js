@@ -62,7 +62,8 @@ class Contact extends Component {
                   <div>
                      <button className="submit">Submit</button>
                      <span id="image-loader">
-                        <img alt="" src="images/loader.gif" />
+                        <img alt="" src="images/loader.gif"/>
+                        NOT IMPLEMENTED
                      </span>
                   </div>
 					</fieldset>
@@ -88,23 +89,31 @@ class Contact extends Component {
 				   </div>
 
                <div className="widget widget_tweets">
-                  <h4 className="widget-title">Latest Tweets</h4>
+                  <h4 className="widget-title">Website Acknowledgements</h4>
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        React template for website used
+                          <a href="https://github.com/tbakerx/react-resume-template">
+                            {" link"}
+                          </a>
                         </span>
-                        <b><a href="#">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
-                        <a href="#">http://t.co/CGIrdxIlI3</a>
+                        Github pages hosting tutorial used
+                          <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">
+                            {" link"}
+                          </a>
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                     </li>
+                      <li>
+                        <span>
+                        Background photo
+                          <a href="https://www.pexels.com/@simonmigaj">
+                            {" link"}
+                          </a>
+                        </span>
                      </li>
                   </ul>
 		         </div>
