@@ -2,7 +2,7 @@
   "name": "github-prod",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SamuelStentz/react-resume-sam",
+  "homepage": "https://samuelstentz.github.io/react-resume-sam/",
   "devDependencies": {
   	"gh-pages": "^1.0.0",
     "react-scripts": "1.0.17"
