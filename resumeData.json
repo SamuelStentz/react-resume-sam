@@ -4,7 +4,7 @@
     "occupation":"Computer Scientist",
     "description":"Avid data analyst and software developer looking to learn and make an impact",
     "image":"profilepic.jpg",
-    "bio":"My favorite work involves developing a product or tool for which heps others. I often gravitate toward healthcare, education, and social issues for this reason. I have experience with Python (Pytorch, Tensorflow, Numpy, Scipy, Sklearn), JS (React, D3), Java, R, Matlab. Also always keen to explore new concepts and learn. In my free time I'm a hiker, biker, rockclimber, and racket sports player.",
+    "bio":"My favorite work involves developing a product or tool which helps others. I often gravitate toward healthcare, education, and social issues for this reason. I have experience with Python (Pytorch, Tensorflow, Numpy, Scipy, Sklearn), JS (React, D3), Java, R, Matlab. I'm always keen to explore new concepts and learn. In my free time I'm a hiker, biker, rockclimber, and racket sports player.",
     "contactmessage":"Feel free to reach out if you have any questions, want to partner on something, or just have a cool idea!",
     "email": "samuelstentz@gmail.com",
     "phone": "908-500-8450",
@@ -60,7 +60,7 @@
         "company":"Flatiron Health",
         "title":"Software Engineering Intern",
         "years":"June - August 2020",
-        "description":"Worked on internal tooling team. Implemented webapp to visualize key patient analysis decisions. Used react, AWS spotlight and Athena, and git to contribute to production codebase."
+        "description":"Worked on internal tooling team. Implemented webapp to visualize key patient analysis decisions. Used react, cytoscape, and flask for webdev, and git to contribute to a production codebase."
       },
       {
         "company":"Rosetta Commons",
@@ -107,8 +107,8 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Plotting by Time",
+        "category":"See examples of cities where everything is seperated by the metric we care about, travel time!",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       }
